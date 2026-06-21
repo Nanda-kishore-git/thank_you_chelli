@@ -125,7 +125,7 @@ section{
 .frame-wrap.in-view{ opacity:1; transform:translateY(0) scale(1); }
 
 .frame{
-  width:min(78vw, 320px);
+  width:min(85vw, 420px);
   aspect-ratio:4/5;
   background:var(--cream);
   border-radius:14px;
